@@ -1,0 +1,239 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://saracarl.github.io/sticky-test-2/dragnet-ia-audio-test-using-ytdl/canvas-1/canvas/bad.json",
+  "type": "AnnotationPage",
+  "label": "bad",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/sticky-test-2/dragnet-ia-audio-test-using-ytdl/canvas-1/canvas/bad-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "audience laughter",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/sticky-test-2/dragnet-ia-audio-test-using-ytdl/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "124.420295,126.144445"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/sticky-test-2/dragnet-ia-audio-test-using-ytdl/canvas-1/canvas/bad-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "applause",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/sticky-test-2/dragnet-ia-audio-test-using-ytdl/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "128.079715,138.494989"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/sticky-test-2/dragnet-ia-audio-test-using-ytdl/canvas-1/canvas/bad-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "applause",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/sticky-test-2/dragnet-ia-audio-test-using-ytdl/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "184.132184,193.597415"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/sticky-test-2/dragnet-ia-audio-test-using-ytdl/canvas-1/canvas/bad-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "audience laughter",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/sticky-test-2/dragnet-ia-audio-test-using-ytdl/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "221.078255,222.133857"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/sticky-test-2/dragnet-ia-audio-test-using-ytdl/canvas-1/canvas/bad-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "audience laughter",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/sticky-test-2/dragnet-ia-audio-test-using-ytdl/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "226.426639,227.728548"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/sticky-test-2/dragnet-ia-audio-test-using-ytdl/canvas-1/canvas/bad-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "audience laughter",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/sticky-test-2/dragnet-ia-audio-test-using-ytdl/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "243.808886,244.442247"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/sticky-test-2/dragnet-ia-audio-test-using-ytdl/canvas-1/canvas/bad-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "applause",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/sticky-test-2/dragnet-ia-audio-test-using-ytdl/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "274.650059,299.403927"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/sticky-test-2/dragnet-ia-audio-test-using-ytdl/canvas-1/canvas/bad-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "audience laughter",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/sticky-test-2/dragnet-ia-audio-test-using-ytdl/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "368.405114,370.023704"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/sticky-test-2/dragnet-ia-audio-test-using-ytdl/canvas-1/canvas/bad-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "audience laughter",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/sticky-test-2/dragnet-ia-audio-test-using-ytdl/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "491.066072,492.473541"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/sticky-test-2/dragnet-ia-audio-test-using-ytdl/canvas-1/canvas/bad-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "applause",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/sticky-test-2/dragnet-ia-audio-test-using-ytdl/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "606.900803,615.908607"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/sticky-test-2/dragnet-ia-audio-test-using-ytdl/canvas-1/canvas/bad-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "applause",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/sticky-test-2/dragnet-ia-audio-test-using-ytdl/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "859.119319,867.282642"
+        }
+      }
+    }
+  ]
+}

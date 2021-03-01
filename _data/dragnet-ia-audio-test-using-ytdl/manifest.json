@@ -23,6 +23,14 @@
         "id": "https://saracarl.github.io/sticky-test-2/dragnet-ia-audio-test-using-ytdl/canvas-1/canvas",
         "type": "Canvas",
         "duration": 7183.0,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://saracarl.github.io/sticky-test-2/dragnet-ia-audio-test-using-ytdl/canvas-1/canvas/bad.json",
+            "label": "bad"
+          }
+        ],
         "items": [
           {
             "id": "https://saracarl.github.io/sticky-test-2/dragnet-ia-audio-test-using-ytdl/canvas-1/paintings",
