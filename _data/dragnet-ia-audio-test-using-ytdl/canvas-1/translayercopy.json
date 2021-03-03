@@ -1,0 +1,407 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://saracarl.github.io/sticky-test-2/dragnet-ia-audio-test-using-ytdl/canvas-1/canvas/translayercopy.json",
+  "type": "AnnotationPage",
+  "label": "translayercopy",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/sticky-test-2/dragnet-ia-audio-test-using-ytdl/canvas-1/canvas/translayercopy-annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Let me tell you how this came about. You know, we are people of narrative. And this is a wonderful narrative. As I said earlier, in some forum, about a year and a half ago, maybe it's been two years almost now.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/sticky-test-2/dragnet-ia-audio-test-using-ytdl/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "14.637682,39.409143"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/sticky-test-2/dragnet-ia-audio-test-using-ytdl/canvas-1/canvas/translayercopy-annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "<a href=\"https://www.wikidata.org/wiki/Q270715\">Gwendolyn Brooks</a> was speaking at <a href=\"https://www.wikidata.org/wiki/Q7191541\">Piedmont Virginia Community College</a>. And I, because I could not get her over to JMU at that particular time. I said, Okay, I'll take <a href=\"https://www.wikidata.org/wiki/Q258943\">JMU</a> to her. So I took a busload of students with me. And she was so gracious to my students and the other hundreds of people who were there and signed autographs, for almost two hours. I don't understand that stamina, I am about dead folks!",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/sticky-test-2/dragnet-ia-audio-test-using-ytdl/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "40.816612,80.042905"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/sticky-test-2/dragnet-ia-audio-test-using-ytdl/canvas-1/canvas/translayercopy-annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And she did that. And I called her the next day just to thank her for being so gracious to my students. And just to say, get my little love notes to her as I usually do. And I said, Gwen, you have to come back to <a href=\"https://www.wikidata.org/wiki/Q258943\">JMU</a>, why don't you come this year, she says, \"Oh, I just been to <a href=\"https://www.wikidata.org/wiki/Q258943\">JMU</a>. Well just been to JMU.\" This was in 1993 was in 1986. When I first came to <a href=\"https://www.wikidata.org/wiki/Q258943\">James Madison</a>, she said, \"I won't come this year. But I'll come next year.\" So I thought, I have a whole year and a half to plan her coming.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/sticky-test-2/dragnet-ia-audio-test-using-ytdl/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "81.070237,120.766488"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/sticky-test-2/dragnet-ia-audio-test-using-ytdl/canvas-1/canvas/translayercopy-annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "So I need to fill my time",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/sticky-test-2/dragnet-ia-audio-test-using-ytdl/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "122.485024,124.557994"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/sticky-test-2/dragnet-ia-audio-test-using-ytdl/canvas-1/canvas/translayercopy-annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And so this is what happened",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/sticky-test-2/dragnet-ia-audio-test-using-ytdl/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "126.144445,128.068648"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/sticky-test-2/dragnet-ia-audio-test-using-ytdl/canvas-1/canvas/translayercopy-annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Almost immediately, I thought about a wonderful woman from the <a href=\"https://www.wikidata.org/wiki/Q213439\">University of Virginia</a>, who had introduced <a href=\"https://www.wikidata.org/wiki/Q270715\">Gwendolyn Brooks</a> on that night. And I said, Let me get on the telephone and see if she will be a part of this dedication to <a href=\"https://www.wikidata.org/wiki/Q270715\">Gwendolyn Brooks</a>, and what turned into a poetry conference. And she said very graciously, \"I will try to fit it in, but I'm not sure.\" And then we got the announcement that she had been named the <a href=\"https://www.wikidata.org/wiki/Q981258\">Poet Laureate of the United States</a>.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/sticky-test-2/dragnet-ia-audio-test-using-ytdl/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "138.143121,183.956255"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/sticky-test-2/dragnet-ia-audio-test-using-ytdl/canvas-1/canvas/translayercopy-annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And I wrote again, frantically, will you be a part of this? And her schedule by that time was full.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/sticky-test-2/dragnet-ia-audio-test-using-ytdl/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "193.597415,201.090245"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/sticky-test-2/dragnet-ia-audio-test-using-ytdl/canvas-1/canvas/translayercopy-annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And I lamented that but I understood because when people tell me \"no\" I accept it. But then I got this nice little note from my mother and mentor, <a href=\"https://www.wikidata.org/wiki/Q270715\">Gwendolyn Brooks</a>, she says, \"oh, <a href=\"https://www.wikidata.org/wiki/Q105174049\">Furious Flower</a> looks real good. But no <a href=\"https://www.wikidata.org/wiki/Q445740\">Rita Dove</a>?\"",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/sticky-test-2/dragnet-ia-audio-test-using-ytdl/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "202.781153,221.311611"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/sticky-test-2/dragnet-ia-audio-test-using-ytdl/canvas-1/canvas/translayercopy-annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And I thought to myself, Gwen, did you really think I didn't invite her? ",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/sticky-test-2/dragnet-ia-audio-test-using-ytdl/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "222.133857,226.086100"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/sticky-test-2/dragnet-ia-audio-test-using-ytdl/canvas-1/canvas/translayercopy-annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And so I called frantically to Jan Girly, <a href=\"https://www.wikidata.org/wiki/Q445740\">Rita Dove</a>'s secretary, and I said, Would you please tell Ms. <a href=\"https://www.wikidata.org/wiki/Q445740\">Dove</a> that <a href=\"https://www.wikidata.org/wiki/Q270715\">Gwendolyn Brooks</a> has me on the horn and she is upset that she is not coming?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/sticky-test-2/dragnet-ia-audio-test-using-ytdl/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "227.869295,244.341499"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/sticky-test-2/dragnet-ia-audio-test-using-ytdl/canvas-1/canvas/translayercopy-annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Could you do something to help me?",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/sticky-test-2/dragnet-ia-audio-test-using-ytdl/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "244.442247,246.588317"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/sticky-test-2/dragnet-ia-audio-test-using-ytdl/canvas-1/canvas/translayercopy-annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And sure enough, the gods were fair, and good, and she consented to come.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/sticky-test-2/dragnet-ia-audio-test-using-ytdl/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "247.151626,251.110134"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/sticky-test-2/dragnet-ia-audio-test-using-ytdl/canvas-1/canvas/translayercopy-annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "It is my privilege. My pleasure to introduce to you a young, brilliant, rooted woman who is the <a href=\"https://www.wikidata.org/wiki/Q981258\">Poet Laureate of the United States</a>. <a href=\"https://www.wikidata.org/wiki/Q445740\">Rita Dove</a>.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/sticky-test-2/dragnet-ia-audio-test-using-ytdl/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "252.640756,274.650000"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/sticky-test-2/dragnet-ia-audio-test-using-ytdl/canvas-1/canvas/translayercopy-annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Thank you, <a href=\"https://www.wikidata.org/wiki/Q105172925\">Joanne</a>. You know, I have been raised by my mother and father to always keep commitments. And when <a href=\"https://www.wikidata.org/wiki/Q105172925\">Joanne</a> called me back and said, Can you come? I had this entire weekend committed just up to the nose and I was being a good girl. Sometimes everything's you do because you're supposed to do them. And then there are some things you have to do. Whether you're, you know, whether it's a commitment, prior commitment or not. And so when <a href=\"https://www.wikidata.org/wiki/Q270715\">Gwendolyn</a> told me to talk to <a href=\"https://www.wikidata.org/wiki/Q105172925\">Joanne</a> and said, Where's Rita and I realized that I just had to cancel about three things, which I did. A lot of people mad at me, but I like to have this group. This is this field, this is love. And this is where I need to be. I have I want to first of all begin by saying that I'm sorry, I couldn't be here last night. I was in <a href=\"https://www.wikidata.org/wiki/Q61\">Washington</a> as part of my job. Some of it is pleasant, and some of it is interesting.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/sticky-test-2/dragnet-ia-audio-test-using-ytdl/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "300.565089,368.337788"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/sticky-test-2/dragnet-ia-audio-test-using-ytdl/canvas-1/canvas/translayercopy-annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And I welcomed then introduced the <a href=\"https://www.wikidata.org/wiki/Q282096\">Academy of American Poets</a>, which has a 60th birthday. And I can tell you that that the the audience looks very different from this one. It was quite a diplomatic effort to but I thought it was very important for me to be there as a representative of the <a href=\"https://www.wikidata.org/wiki/Q131454\">Library of Congress</a> to a group whose representatives are rather uniform, let's say, in many ways, and that was the business that I did last night. And now I'm here for pleasure. So I want to thank <a href=\"https://www.wikidata.org/wiki/Q270715\">Gwendolyn</a>, for again, I think showing us all what's important what's right. And, and making me realize that there are some things that you just your parents raise you to do certain things, but they also need to know what's important. She showed me that. I'd like to begin with a poem that comes from a second book Museum, which is a little bit about being out there in the world alone. You know, representative of sorts. This poem is about <a href=\"https://www.wikidata.org/wiki/Q161805\">Champion Jack Dupree</a>. And as I know, all of you know, he was one of the great singers and musicians died a few years ago, in the last years of his life. He's spent quite a bit of time touring in <a href=\"https://www.wikidata.org/wiki/Q46\">Europe</a>, where <a href=\"https://www.wikidata.org/wiki/Q8341\">jazz</a> and <a href=\"https://www.wikidata.org/wiki/Q9759\">blues</a> still enjoyed and still enjoys an audience and enthusiastic audience. I know we've got an enthusiastic audiences here, but he could make money there.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/sticky-test-2/dragnet-ia-audio-test-using-ytdl/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "370.094078,491.066072"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/sticky-test-2/dragnet-ia-audio-test-using-ytdl/canvas-1/canvas/translayercopy-annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And so I saw him one evening at a beer keller in <a href-\"https://www.wikidata.org/wiki/Q1726\">Munich</a>. He had a wonderful kind of monologue that he did. Little rap.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/sticky-test-2/dragnet-ia-audio-test-using-ytdl/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "491.488313,505.703754"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/sticky-test-2/dragnet-ia-audio-test-using-ytdl/canvas-1/canvas/translayercopy-annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And he'd instead of saying <a href=\"https://www.wikidata.org/wiki/Q4604\">Confucius</a> say he would say <a href=\"https://www.wikidata.org/wiki/Q692\">Shakespeare</a>. <a href=\"https://www.wikidata.org/wiki/Q692\">Shakespeare</a> say he drums a <a href=\"https://www.wikidata.org/wiki/Q5994\">piano</a> would crowing <a href=\"https://www.wikidata.org/wiki/Q161805\">Champion Jack</a> in love and in debt in a tan walking suit with a flag on the pocket with a red eye for women with a diamond studded ear with sand in a mouthful of mush for me. For me, I keep on drifting like a ship out on the sea. That afternoon two students from the academia showed him the town. <a href-\"https://www.wikidata.org/wiki/Q1726\">Munich</a> was misbehaving, whipping his ass to ice while his shoes soaked through. His guides pointed at a clock in a blue tiled house. And tonight, every song he sings is written by <a href=\"https://www.wikidata.org/wiki/Q692\">Shakespeare</a> and his mother-in-law. I love your baby. But it don't mean a goddamn thing. in trouble with every woman he's ever known all of them ugly skinny legs lie gap waiting behind the lips to suck in. Going down slow crooning <a href=\"https://www.wikidata.org/wiki/Q692\">Shakespeare</a> say man must be careful when you kiss when he drunk. Going down for the third set pass the stragglers at the bar, the <a href=\"https://www.wikidata.org/wiki/Q543127\">bourbon</a> in his hand, some bitches cold, wet heart, the whole joint stinking on <a href=\"https://www.wikidata.org/wiki/Q44\">beer</a> in love and winning now. So even the mistakes found like <a href=\"https://www.wikidata.org/wiki/Q8341\">jazz</a>, poor me, moaning so no one hears. My home's in <a href=\"https://www.wikidata.org/wiki/Q1588\">Louisiana</a>. My voice is wrong. I'm broke and can't hold my piss. My mother told me there'd be days like this.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/sticky-test-2/dragnet-ia-audio-test-using-ytdl/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "506.548235,606.921815"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/sticky-test-2/dragnet-ia-audio-test-using-ytdl/canvas-1/canvas/translayercopy-annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Thank you.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/sticky-test-2/dragnet-ia-audio-test-using-ytdl/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "616.612342,617.316077"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "https://saracarl.github.io/sticky-test-2/dragnet-ia-audio-test-using-ytdl/canvas-1/canvas/translayercopy-annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "There is a German painter from the 20s 30s. Named <a href=\"https://www.wikidata.org/wiki/Q703331\">Christian Schad</a>, who painted some of the most haunting <a href=\"https://www.wikidata.org/wiki/Q134307\">portraits</a> I've ever seen. Because in his portraits you feel as if the person who is being portrayed is actually looking at you and studying you, you feel that you've been put on the spot. And he has a double <a href=\"https://www.wikidata.org/wiki/Q134307\">portrait</a>, which was painted in 1929, in <a href=\"https://www.wikidata.org/wiki/Q64\">Berlin</a>, of a black woman from <a href=\"https://www.wikidata.org/wiki/Q1019\">Madagascar</a>, who somehow, poor soul, also ended up in <a href=\"https://www.wikidata.org/wiki/Q64\">Berlin</a> in 1929. With a white man who had a <a href=\"https://www.wikidata.org/wiki/Q1182746\">physical deformity</a>, so that he looked as if he had wings under his body. They appeared in a <a href=\"https://www.wikidata.org/wiki/Q2591557\">freak show</a> together, he for physical reasons, but she mainly because in 1929, a black woman in <a href=\"https://www.wikidata.org/wiki/Q64\">Berlin</a> was considered a freak. And there was nothing wrong with her. They came they went under the billing Agosta the winged man and Rascha, the black dove, and this <a href=\"https://www.wikidata.org/wiki/Q1028181\">painter</a> managed to portray them in such a way that you realize that anyone who has an eye in their head realizes how wrong this was. Agosta the winged man and Rascha the black dove. <a href=\"https://www.wikidata.org/wiki/Q703331\">Schad</a> paced the length of his <a href=\"https://www.wikidata.org/wiki/Q746628\">studio</a> and stopped at the wall, staring at a blank space behind him the clang and hum of <a href=\"https://www.wikidata.org/wiki/Q56161135\">Wardenberg Strasse</a> its <a href=\"https://www.wikidata.org/wiki/Q1420\">automobiles</a> and organ grinders quarter to five. His eyes traveled to the <a href=\"https://www.wikidata.org/wiki/Q274988\">plaster</a> <a href=\"https://www.wikidata.org/wiki/Q732328\">scrollwork</a> on the ceiling. Did that hold back Heaven, he could not leave his skin. Once he painted himself in a new one. Silk green, worn like a shirt. He thought of Rascha so far from <a href=\"https://www.wikidata.org/wiki/Q1019\">Madagascar</a>, turning slowly in place as the <a herf=\"https://www.wikidata.org/wiki/Q215388\">boa constrictor</a> coiled counter wise its heavy love. How the spectators gawked, exhaling <a herf=\"https://www.wikidata.org/wiki/Q44\">beer</a> and sour <a href=\"https://www.wikidata.org/wiki/Q3127419\">herring</a> sighs when the tent lights dimmed. Rascha went back to her trailer and plucked a <a href=\"https://www.wikidata.org/wiki/Q780\">chicken</a> for dinner. The <a href=\"https://www.wikidata.org/wiki/Q12321255\">canvas</a> not his eye was merciless. He remembered Katya the Russian aristocrat, late for every sitting still fleeing the <a href=\"https://www.wikidata.org/wiki/Q42976\">October Revolution</a>, how she clutched her sides and said not one word. Whereas Agosta the <a href=\"https://www.wikidata.org/wiki/Q384459\">doorbell</a> rang, was always on time. Lip curled as he spoke in wonder of women traveling backstage to offer him the consummate bloom of their lust. <a href=\"https://www.wikidata.org/wiki/Q703331\">Schad</a> would place him on a throne, quite cheap, tucked over his loins, the black suit jacket thrown off like a <a href=\"https://www.wikidata.org/wiki/Q516992\">cloak</a>. Agosta had told him of the students at the middle of the medical students at the shower at that chill arena where he perched on a cot his torso exposed his crests and fins a colony of birds trying to get out. And the students lumps caught in their throats, taking notes. Ah, Rascha's foot on the stair. She moved slowly as if she carried the <a href=\"https://www.wikidata.org/wiki/Q215388\">boa constrictor</a> around her body always. Once she brought fresh <a href=\"https://www.wikidata.org/wiki/Q93189\">eggs</a> into the <a href=\"https://www.wikidata.org/wiki/Q746628\">studio</a> flecked and warm as well. Agosta in classical drapery then, and Rascha at his feet without passion. Not the <a href=\"https://www.wikidata.org/wiki/Q12321255\">canvas</a>, but their gaze. So calm was merciless.",
+        "format": "text/plain"
+      },
+      "target": {
+        "source": "https://saracarl.github.io/sticky-test-2/dragnet-ia-audio-test-using-ytdl/canvas-1/canvas",
+        "selector": {
+          "type": "RangeSelector",
+          "t": "624.212677,858.003769"
+        }
+      }
+    }
+  ]
+}
